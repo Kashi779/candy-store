@@ -13,7 +13,8 @@ Ensure you have the following installed:
 - Docker Hub to store Docker images.
 
 
-##Steps to Deploy the Candy-Store Application on ec2 server
+###Steps to Deploy the Candy-Store Application on ec2 server
+
 1.📦 Set Up the Application:
 Check the application is running on the local machine (EC2 instance).
 
@@ -45,17 +46,17 @@ Open your web browser and navigate to http://localhost:3000 or your public IP ad
 Hence we have successfully deployed the Node.jsapplication on the server!
 
 
-##Contributing
+###Contributing
 Contributions are welcome! Please create a pull request or open an issue to discuss your ideas.
 
-##License
+###License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+###Contact
 If you have any questions or need further assistance, feel free to ask!. For any inquiries or support, 
 please reach out to Kashi at gsagre99@gmail.com
 
-##Acknowledgements
+###Acknowledgements
 - Express.jsfor providing the server framework.
 - Docker for containerization.
 - GitHub for version control and repository hosting.
