@@ -65,7 +65,7 @@ please reach out to Kashi at gsagre99@gmail.com
 
 
 ###Acknowledgements
-- Express.jsfor providing the server framework.
+- Express.js for providing the server framework.
 - Docker for containerization.
 - GitHub for version control and repository hosting.
 
