@@ -1,6 +1,6 @@
 # Candy Store
 
-Welcome to Candy Store, a Node.jsweb application designed for an e-commerce platform. Created and deployed on an EC2 instance by Kashi, this project brings the sweetest shopping experience to the digital world.
+Welcome to Candy Store, a Node.js web application designed for an e-commerce platform. Created and deployed on an EC2 instance by Kashi, this project brings the sweetest shopping experience to the digital world.
 
 ### Prerequisites
 Ensure you have the following installed:
